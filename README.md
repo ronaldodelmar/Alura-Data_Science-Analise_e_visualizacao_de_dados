@@ -1,5 +1,5 @@
 ![Alura1](https://user-images.githubusercontent.com/62447846/224147368-4560a63e-f7cb-425a-94e7-31f299af017b.jpg)
-![download (2)](https://user-images.githubusercontent.com/62447846/224153804-8d89de02-ab18-4821-bcf6-05351647256e.jpg)
+![DataScienceCurto](https://user-images.githubusercontent.com/62447846/224176164-433caa3f-ffa0-4ae9-be98-0da30cd45e10.png)
 ![download](https://user-images.githubusercontent.com/62447846/224147432-47e2c633-e427-4525-80d9-e4109744402b.jpg)
 
 # Alura - Data Science - Análise e visualização de dados
