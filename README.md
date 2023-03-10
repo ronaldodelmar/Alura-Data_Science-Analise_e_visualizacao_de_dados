@@ -25,9 +25,8 @@ Este repositório tem apenas um branch (main) onde consta os arquivos usados no 
 ---
 
 ### Conteúdo do repositório
-- Dados usados para as análises 
-- Notebook originais do treinamento
-- Notebook com explicações
+- Diretórios da aula zero até a aula seis com os arquivos de códigos(notebooks originais) e seus respectivos arquivos de dados 
+- Notebook com os códigos das aulas e explicações
 
 ---
 
